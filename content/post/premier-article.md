@@ -6,10 +6,10 @@ categories:
   - "Exercices de groupe"
 tags:
   - "poids de corps"
-  - "facile"
+  - "exercice de groupe"
 ---
 
-The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.
+Exercices de poids de corps à faire en groupe.
 <!--more-->
 
 ## Headings

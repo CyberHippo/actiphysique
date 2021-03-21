@@ -71,15 +71,15 @@ theme = "hugo-dpsg"
     weight = 3
 
   [[menu.main]]
-    identifier = "temoignagnes"
-    name = "Témoignagnes"
-    url = "/temoignagnes"
+    identifier = "temoignages"
+    name = "Témoignages"
+    url = "/temoignages"
     weight = 4
 
   [[menu.main]]
     identifier = "articles"
     name = "Articles"
-    url = "/articles"
+    url = "/"
     weight = 5
 
   [[menu.main]]

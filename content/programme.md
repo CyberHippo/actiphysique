@@ -3,6 +3,7 @@ title: Programme surpoids / obésité
 <!-- date: 2021-03-21 -->
 authorbox: false
 sidebar: false
+thumbnail: "img/depliant-1.jpg"
 ---
 
 ## Introduction
