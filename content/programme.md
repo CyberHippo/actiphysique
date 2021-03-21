@@ -32,6 +32,8 @@ Ce programme vous propose de démarrer/reprendre des activités physiques et spo
 
 * Parc de Parilly, 38 rue du Clos Verger, 69200 Vénissieux (accès : métro D, bus, parking).
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2785.5987507667523!2d4.892937125107333!3d45.71908590545824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4c226ad459f2d%3A0x182610178e9fd889!2s38%20Rue%20du%20Clos%20Verger%2C%2069200%20V%C3%A9nissieux!5e0!3m2!1sfr!2sfr!4v1605900733902!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 * Créneaux actuels : les samedis de 8h à 9h30, de 9h35 à 11h05 et de 11h20 à 12h50 (créneaux femmes et créneaux hommes pouvant augmenter en fonction de la demande : me contacter pour plus d'informations).
 
 * Tarif : 8€ par cours à payer sous forme de forfait 5 séances à l'année en fonction du nombre de séances restantes (40 séances prévues par an de septembre à juin/début juillet).

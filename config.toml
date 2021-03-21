@@ -87,3 +87,8 @@ theme = "hugo-dpsg"
     name = "Contacts"
     url = "/contact"
     weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
