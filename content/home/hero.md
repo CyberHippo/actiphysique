@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Actiphysique"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpeg"
+hero_media = "sport.webp"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,6 +42,6 @@ hero_media = "user-2.jpeg"
   label = "Prendre contact"
 
 +++
-## Bienvenue sur le site d'**Actiphysique**!
+# **Actiphysique**
 
-Je m'appelle **Yannis**, j'ai 24 ans et je suis diplômé d’un **Master STAPS**, mention **activité physique adaptée et santé**.
+### Activité physique adaptée et coaching sportif
