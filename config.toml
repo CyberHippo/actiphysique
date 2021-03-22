@@ -49,8 +49,3 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = "academic"
   homepage = "https://sourcethemes.com/academic/"
   repo = "https://github.com/gcushen/hugo-academic"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
