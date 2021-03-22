@@ -34,14 +34,14 @@ hero_media = "user-2.jpeg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
-  label = "Know more"
+  url = "#programmes"
+  label = "Mes programmes"
 
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Prendre contact"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## Bienvenue sur le site d'**Actiphysique**!
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+Je m'appelle **Yannis**, j'ai 24 ans et je suis diplômé d’un **Master STAPS**, mention **activité physique adaptée et santé**.

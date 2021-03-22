@@ -1,7 +1,6 @@
 ---
-title: "An example conference paper"
+title: "Programmes de qualité !"
 authors:
-- admin
 - Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -41,7 +40,7 @@ links:
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
@@ -72,4 +71,3 @@ Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

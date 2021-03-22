@@ -5,27 +5,27 @@
 
 [[main]]
   name = "Présentation"
-  url = "#about"
+  url = "#"
   weight = 10
 
 [[main]]
   name = "Programme surpoids / obésité"
-  url = "#posts"
+  url = "#programmes"
   weight = 20
 
 [[main]]
   name = "Coaching sportif pour tous"
-  url = "#projects"
+  url = "#programmes"
   weight = 30
 
 [[main]]
   name = "Témoignages"
-  url = "#publications"
+  url = "#featured"
   weight = 40
 
 [[main]]
   name = "Articles"
-  url = "courses/"
+  url = "articles/"
   weight = 50
 
 [[main]]
