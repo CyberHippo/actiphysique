@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Mes programmes"
-# subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
+title = "APA & coaching sportif"
+subtitle = "« Pratiquer des activités physiques et sportives qui nous font plaisir pour mieux les intégrer à nos habitudes de vie »"
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ title = "Mes programmes"
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

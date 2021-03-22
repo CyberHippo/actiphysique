@@ -45,3 +45,7 @@ hero_media = "sport.webp"
 # **Actiphysique**
 
 ### Activité physique adaptée et coaching sportif
+
+Je m’appelle Yannis Chkoundali et je suis **enseignant en APA** & **coach sportif** au sein de la **métropole de Lyon**.
+
+J'accompagne des personnes dans une démarche de santé avec un programme collectif « multi-activités » qui est dédié aux personnes en situation d’obésité et des programmes personnalisés ouverts à tous.
