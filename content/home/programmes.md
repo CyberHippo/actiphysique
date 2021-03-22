@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "APA & coaching sportif"
 subtitle = "« Pratiquer des activités physiques et sportives qui nous font plaisir pour mieux les intégrer à nos habitudes de vie »"
