@@ -69,15 +69,13 @@ social:
 email: ""
 
 ---
-Pratiquant des activités physiques et sportives diverses depuis de nombreuses années, j'aime transmettre mon goût pour celles-ci aux personnes que j'accompagne en donnant du sens aux activités que je propose et à l’activité physique de manière globale.
 
-Mes objectifs : vous accompagner de manière adaptée avec p.l.a.i.s.i.r et motivation. Donner du sens à la pratique par la transmission de connaissances permettant de mieux comprendre le fonctionnement du corps, la gestion de l’effort et les diverses activités que je propose dans mes programmes collectifs et personnalisés
+Pratiquant des activités physiques diverses depuis de nombreuses années, j'aime transmettre mon goût pour celles-ci aux personnes que j'accompagne en donnant du sens à ce que je propose dans mes programmes collectifs et personnalisés.
 
-En termes d’activités physiques, je pratique la marche, la course, la corde à sauter, le vélo, la boxe pieds-poings, le renforcement musculaire et le badminton depuis des années. Pas de surprise si je propose et partage ces activités avec celles et ceux que j’accompagne !
+**Mon objectif** : vous aider à atteindre les vôtres avec plaisir et motivation. Je vous transmets progressivement mes connaissances en lien avec le fonctionnement du corps, la gestion de l’effort et les activités.
 
-En quelques mots, j’aide et j’aime aider les autres, quels que soient leurs âges ou leurs particularités de santé, à aimer les activités physiques et sportives pour mieux les adopter au quotidien. J’ai créé un programme collectif dédié aux personnes en situation d’obésité ou de surpoids dans lesquels je propose des cours « multi-activités » avec des créneaux réservés aux femmes ou aux hommes.
+Je pratique la marche, la course, la corde à sauter, le vélo, la boxe pieds-poings, le renforcement musculaire et le badminton depuis des années. Pas de surprise si je propose et partage ces activités avec celles et ceux que j’accompagne !
 
-Respectant les réglementations pour vous accompagner, je suis assuré chez Inter Mutuelles Entreprises (responsabilité civile professionnelle N° 971 0001 87269 P 30) et je dispose d’une carte professionnelle d’éducateur sportif (N°06919ED0252).
-Au-delà de cela, je souhaite accompagner chaque personne qui me fait confiance en proposant des accompagnements cohérents et adaptés à vos attentes, besoins et capacités.
+J’aide et j’aime aider les autres à aimer l'activité physique pour mieux l'adopter au quotidien. Quel que soit votre âge, votre niveau ou vos particularités de santé, je m'adapte à vos attentes, à vos besoins et à vos capacités.
 
-Que vous soyez vous soyez jeune ou plus âgé, débutant ou avancé, que vous ayez une particularité de santé ou non, je suis à l’écoute de votre projet pour vous proposer le suivi qui vous convient le mieux en pleine nature dans les parcs lyonnais.
+Je suis à votre écoute pour vous proposer le suivi qui vous convient le mieux dans les parcs lyonnais.

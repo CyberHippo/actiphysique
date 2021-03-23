@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "APA & coaching sportif"
-subtitle = "« Pratiquer des activités physiques et sportives qui nous font plaisir pour mieux les intégrer à nos habitudes de vie »"
+title = "Activité physique adaptée & coaching sportif"
+subtitle = "« Pratiquer des activités avec plaisir pour mieux les intégrer à nos habitudes de vie »"
 
 [content]
   # Page type to display. E.g. project.
@@ -22,16 +22,17 @@ subtitle = "« Pratiquer des activités physiques et sportives qui nous font pla
   filter_default = 0
 
   [[content.filter_button]]
-    name = "All"
+    name = "Tous les programmes"
     tag = "*"
 
   [[content.filter_button]]
-    name = "Exercices de groupe"
-    tag = "exercices de groupe"
+  name = "Programme surpoids / obésité"
+  tag = "programme surpoids / obésité"
 
   [[content.filter_button]]
-    name = "Autre"
-    tag = "autre"
+    name = "Coaching sportif pour tous"
+    tag = "coaching sportif pour tous"
+
 
 
 [design]
@@ -42,7 +43,7 @@ subtitle = "« Pratiquer des activités physiques et sportives qui nous font pla
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

@@ -48,4 +48,4 @@ hero_media = "infographie.webp"
 
 Je m’appelle Yannis Chkoundali et je suis **enseignant en APA** & **coach sportif** au sein de la **métropole de Lyon**.
 
-J'accompagne des personnes dans une démarche de santé avec un programme collectif « multi-activités » qui est dédié aux personnes en situation d’obésité et des programmes personnalisés ouverts à tous.
+J'accompagne des personnes dans une démarche de santé avec des cours collectifs « multi-activités » dédiés aux personnes en situation d’obésité et des coachings personnalisés ouverts à tous.
