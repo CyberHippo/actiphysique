@@ -66,8 +66,8 @@ office_hours = """De 7:00 à 20:30"""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "facebook", icon_pack = "fab", name = "Actiphysique", link = "https://www.facebook.com/CoachActiphysique/"},
   {icon = "instagram", icon_pack = "fab", name = "@actiphysique", link = "https://www.instagram.com/actiphysique/"},
+  {icon = "facebook", icon_pack = "fab", name = "Actiphysique", link = "https://www.facebook.com/Actiphysique/"},
   {icon = "linkedin", icon_pack = "fab", name = "Yannis Chkoundali", link = "https://www.linkedin.com/in/yannis-chkoundali-167a4416a/"},
   ]
 
