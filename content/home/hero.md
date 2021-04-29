@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Actiphysique"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "infographie.webp"
+hero_media = "actiphysique.webp"
 
 [design.background]
   # Apply a background color, gradient, or image.

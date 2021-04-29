@@ -7,9 +7,4 @@ title: Publications
 #   3 = Card
 #   4 = Citation
 view: 3
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
 ---

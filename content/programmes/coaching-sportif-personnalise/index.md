@@ -1,32 +1,65 @@
 ---
-title: Coaching sportif personnalisé
-# summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+title: Coachings sportifs personnalisés
 tags:
-- coaching
-- exercices de groupe
+- coaching personnalisé
 date: "2021-03-22T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link:
-
 image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+  focal_point: Right
 ---
 
-Vous recherchez un suivi de qualité pour vous accompagner dans l’atteinte de vos objectifs ?
+> Vous avez entre 35 et 75 ans et vous cherchez un suivi pour vous ou pour l’un de vos enfants autour de Lyon, dans une démarche de santé ?
 
-* Renforcer son corps : améliorer sa forme, renforcer ses muscles, ses os et ses articulations, sa respiration, son système immunitaire, la gestion de sa glycémie…
-* Perdre du poids : éliminer le gras viscéral (responsable du développement de certaines maladies), perdre un excès de gras présent sous la peau en renforçant l’ensemble du corps.
-* Améliorer sa posture
-* Diminuer le stress
-* Développer ses capacités physiques, ses compétences sportives et sa confiance en soi
-* Partager des expériences en famille ou entre amis
+> Vous recherchez un accompagnement adapté et motivant, et vous souhaitez pratiquer une ou plusieurs activités physiques avec plaisir ?
 
-Vous avez entre 14 et 75 ans et vous aimez la nature ? Que vous soyez débutant ou déjà sportif, que vous ayez une situation de santé particulière ou non, nous pouvons vous accompagner si vous vous reconnaissez dans l’un de ces objectifs.
+> Vous voulez apprendre à vous renforcer, à gérer votre poids, à améliorer votre posture, à diminuer votre niveau de stress, à développer vos compétences sportives et à entretenir la santé de votre corps ?
 
-Étant formé en activité physique adaptée, je peux vous accompagner si vous êtes en situation d’obésité, si vous avez une affection de longue durée, une pathologie musculaire ou articulaire ou encore une situation de handicap.
 
-Je vous propose toutes ces activités dans votre programme selon vos envies, vos besoins et vos capacités : marche fractionnée, course, corde à sauter, vélo, renforcement musculaire, boxe poings et pieds-poings, badminton. Au rendez-vous : de la diversité, du plaisir, de l’efficacité, du partage et un regain d’énergie !
+## Le concept de nos coachings
 
-Les coachings que je propose s’ouvre aux personnes seules ou à des groupes de 2 à 4 personnes en frais partagés. L’objectif n’est pas de vous faire payer cher ce suivi, mais que vous puissiez continuer de pratiquer ensemble par la suite.
+- Rendre accessible des activités physiques et sportives variées à des personnes âgées d’environ 35 à 65 ans, ou à des enfants ayant une situation de santé particulière, souhaitant démarrer ou reprendre le sport avec un objectif de santé.
+- Proposer des cours en binôme, en frais partagés, pour les personnes souhaitant pratiquer en famille ou avec un proche.
+- Favoriser le plaisir et la transmission de connaissances dans la pratique.
+
+Dans mon parcours en activité physique adaptée, j’ai eu l’occasion d’accompagner des personnes de tout âge, jeunes et plus âgées, avec ou sans situation de santé particulière.
+
+Pour vous donner quelques exemples, voici différents profils de personnes que j’ai accompagnées : collégiens et lycéens lambda ou en situation d’obésité, adultes en situation de surpoids ou d’obésité, ayant des affections de longue durée, des pathologies musculaires ou articulaires, en situation de handicap physique, mental ou psychique.
+
+
+## Nos coachings en résumé
+
+En semaine, ou le week-end, nous vous proposons plusieurs choix d’activités physiques et sportives\* :
+- Renforcement musculaire
+- Boxe adaptée (poings et genoux sur cibles)
+- Badminton (1vs1 et en équipe)
+- Marche fractionnée
+- Course
+- Vélo : apprentissage et partie cardio
+- Corse à sauter
+- Boxe poings et pieds-poings
+
+\*_Certaines activités comme la marche ou la course, le vélo ou la corde à sauter peuvent être combinées avec d’autres. Nous adaptons nos séances à vos attentes et à votre profil._
+
+On découvre comment pratiquer efficacement selon ses objectifs et pour garder la motivation, sur des temps de pratiques plus courts ou plus longs, dans une démarche de santé. On apprend à mieux comprendre le fonctionnement du corps, à partir de ressentis et de repères personnels.
+
+
+## Où se déroulent ces cours ?
+
+Nous proposons ces coachings dans plusieurs parcs lyonnais, selon vos préférences : Parc de Parilly (Bron, Vénissieux), Sergent Blandan ou Gerland (Lyon 7) ou Tête d’Or (Lyon 6).
+
+En cas de grand froid ou de pluie, nous pouvons proposer de pratiquer à distance, mais à savoir que voir la nature, sentir l’air sur son visage, et le soleil durant les beaux jours, ça fait une différence.
+
+
+## Tarifs modalités pratiques
+
+C’est vous qui décidez comment se déroulent votre suivi : quelles activités, en solo ou avec une autre personne pour le même prix.
+
+Le prix de chaque séance est fixé à 60€ pour une durée de 1h30, soit 40€ par heure.
+Si j’estime pouvoir vous accompagner, nous pourrons envisager une séance d’essai.
+
+---
+
+- Point de RDV : à déterminer ensemble.
+- Nos créneaux : les soirs de semaine ou le dimanche (ou le samedi en cas d’exceptions).
+
+Vous avez des questions ou vous souhaitez faire une séance d’essai ?
