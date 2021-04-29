@@ -1,5 +1,5 @@
 ---
-title: Coachings sportifs personnalisés
+title: Coachings personnalisés
 tags:
 - coaching personnalisé
 date: "2021-03-22T00:00:00Z"
