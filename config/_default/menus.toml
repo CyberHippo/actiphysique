@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Tarifs"
-  url = "#programmes"
+  url = "#tarifs"
   weight = 30
 
 [[main]]
   name = "Témoignages"
-  url = "#featured"
+  url = "#temoignages"
   weight = 40
 
 [[main]]
