@@ -15,7 +15,7 @@ day_night = false
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "coaching sportif personnalisé"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
@@ -58,18 +58,19 @@ phone = "+33 6 89 43 05 75"
 # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """De 7:00 à 20:30"""
+office_hours = """De 8:00 à 20:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
-
+facebook = "Actiphysique"
+instagram = "@actiphysique"
+linkedin = "Yannis Chkoundali"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "instagram", icon_pack = "fab", name = "@actiphysique", link = "https://www.instagram.com/actiphysique/"},
-  {icon = "facebook", icon_pack = "fab", name = "Actiphysique", link = "https://www.facebook.com/Actiphysique/"},
-  {icon = "linkedin", icon_pack = "fab", name = "Yannis Chkoundali", link = "https://www.linkedin.com/in/yannis-chkoundali-167a4416a/"},
-  ]
+contact_links = []
+  # {icon = "instagram", icon_pack = "fab", name = "@actiphysique", link = "https://www.instagram.com/actiphysique/"},
+  # {icon = "facebook", icon_pack = "fab", name = "Actiphysique", link = "https://www.facebook.com/Actiphysique/"},
+  # {icon = "linkedin", icon_pack = "fab", name = "Yannis Chkoundali", link = "https://www.linkedin.com/in/yannis-chkoundali-167a4416a/"},
 
 # Display a map.
 # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
@@ -99,7 +100,7 @@ zoom = 15
 # Load CSS and JS plugins
 #   E.g. To load `/assets/css/custom.css`, set `plugins_css = ["custom"]`.
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = []
+plugins_css = ["custom"]
 plugins_js  = []
 
 ############################

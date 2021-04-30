@@ -9,7 +9,7 @@ publication_types: ["0"]
 
 abstract: Yannis est un excellent coach, à l'écoute et très compétent. Il sait mettre en confiance. En plus il est très accrocheur, ne renonce jamais. Bref, un vrai coach, digne de confiance.
 
-summary: Yannis est un excellent coach, à l'écoute et très compétent. Il sait mettre en confiance.
+summary: Yannis est un excellent coach, à l'écoute et très compétent. Il sait mettre en confiance. [...]
 
 featured: true
 ---

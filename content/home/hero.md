@@ -48,4 +48,8 @@ hero_media = "actiphysique.webp"
 
 Je m’appelle Yannis Chkoundali et je suis **enseignant en APA** & **coach sportif** au sein de la **métropole de Lyon**.
 
-J'accompagne des personnes dans une démarche de santé avec des cours collectifs « multi-activités » dédiés aux personnes en situation d’obésité et des coachings personnalisés ouverts à tous.
+J’accompagne des personnes ayant un objectif de santé, en recherche d’activités physiques sportives qui soient accessibles, plaisantes et motivantes.
+
+Je propose deux programmes ouverts exclusivement aux personnes en situation d’obésité ou de surpoids. Le premier est un programme accessible et motivant de 6 semaines (prolongeable) et le second est prévu à l’année avec des cours multi-activités.
+
+Je propose également des coachings personnalisés, pour tous, jeunes et plus âgés, débutants ou avec un vécu sportif, avec ou sans situation particulière de santé ou de handicap.

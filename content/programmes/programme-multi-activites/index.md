@@ -2,7 +2,7 @@
 title: Cours « multi-activités »
 tags:
 - multi-activités
-date: "2021-02-22T00:00:00Z"
+date: "2021-04-30T00:00:00Z"
 
 image:
   preview_only: false
