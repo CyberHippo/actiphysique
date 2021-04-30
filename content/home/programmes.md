@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Activité physique adaptée & coaching sportif"
-subtitle = "« Pratiquer des activités avec plaisir pour mieux les intégrer à nos habitudes de vie »"
+title = "APA & coaching sportif"
+subtitle = "« Pratiquez avec plaisir pour changer vos habitudes »"
 
 [content]
   # Page type to display. E.g. project.

@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Articles récents"
-subtitle = "Découvrez le contenu des derniers articles publiés"
+title = "Mon histoire"
+# subtitle = "Découvrez mon vécu sportif, mon état d’esprit ainsi que ma vision de l’activité physique et de l’accompagnement au changement"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

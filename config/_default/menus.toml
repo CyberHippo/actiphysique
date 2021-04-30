@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Articles"
-  url = "articles/"
+  name = "Mon Histoire"
+  url = "/articles/mon-histoire/"
   weight = 50
 
 [[main]]
