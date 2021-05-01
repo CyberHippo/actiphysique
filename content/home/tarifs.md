@@ -17,33 +17,42 @@ title = "Tarifs"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Cours multi-activités"
+  duration = "Annuel (surpoids/obésité)"
+  price = "8€/cours"
+  people = "10 personnes par cours"
+  description = """
+  Le samedi au Parc de Parilly – 1h30
+
+  Cycles d’activités physiques adaptées en renforcement musculaire, boxe et badminton
+
+  40 séances prévues de septembre à juin/juillet : forfait annuel ou 5 séances (valable une fois)
+  """
+  footer = "Cours d'essai gratuit"
+
+[[experience]]
   title = "Programme surpoids obésité"
-  company = "6 semaines (prolongeable)"
-  date_start = "2016-01-01"
-  date_end = ""
+  duration = "6 semaines (prolongeable)"
+  price = "58€/semaine"
+  people = "3 participants maximum"
   description = """
   #### Programme à la semaine  
   * 1 cours multi activités à Parilly le samedi (1h30)
   * 1 cours à distance un soir de semaine (40 min)
   * 1 cours dans un parc Lyonnais ou à distance un soir de semaine (1h20) + 1 entretien motivationnel offert (20 min)
   """
+  footer = "Cours d'essai gratuit"
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "APA & coachings sportifs personnalisés"
+  duration = ""
+  price = "60€/cours"
+  people = "1 à 2 personnes"
+  description = """
+  Parc de la Métropole de Lyon – 1h30
 
-[[experience]]
-  title = "Professor"
-  company = "University Y"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  Activités possibles : vélo, marche fractionnée ou course, renforcement musculaire, boxe poings et pieds-poings, badminton
+  """
+  footer = "Cours d'essai gratuit"
 
 +++
