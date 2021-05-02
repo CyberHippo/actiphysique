@@ -15,7 +15,7 @@
     {{ $exp_len := len $page.Params.experience }}
     {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
       <!-- Content -->
-      <div class="col-4">
+      <div class="col-md-4 col-lg-4 col-sm-8 col-12">
         <div class="card custom-center">
           <div class="card-header font-weight-bold">
             <h2 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h2>

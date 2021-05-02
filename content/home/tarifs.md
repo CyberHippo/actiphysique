@@ -39,7 +39,8 @@ title = "Tarifs"
   #### Programme à la semaine  
   * 1 cours multi activités à Parilly le samedi (1h30)
   * 1 cours à distance un soir de semaine (40 min)
-  * 1 cours dans un parc Lyonnais ou à distance un soir de semaine (1h20) + 1 entretien motivationnel offert (20 min)
+  * 1 cours dans un parc Lyonnais ou à distance un soir de semaine (1h20)
+  * 1 entretien motivationnel offert (20 min)
   """
   footer = "Cours d'essai gratuit"
 

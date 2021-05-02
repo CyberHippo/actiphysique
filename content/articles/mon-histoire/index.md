@@ -17,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  focal_point: "Center"
+  focal_point: "Right"
   preview_only: false
 
 ---
@@ -26,7 +26,10 @@ image:
 
 **Très jeune, j’ai commencé par m’intéresser au renforcement musculaire et à la musculation** que j’ai pratiqué pendant plusieurs années. J’ai testé diverses méthodes d’entraînement, en utilisant des machines et le poids de corps.
 
-**J’ai commis plusieurs erreurs** que de nombreuses personnes, peut-être vous, ont déjà connu : négliger l’échauffement et le renforcement du cœur au profit d’autres exercices dans une optique de performance et d’esthétisme, passer trop de temps à s’entraîner jusqu’à perdre ma motivation ou me blesser, négliger certains muscles en me focalisant sur d’autres, prendre de la protéine en poudre pour « construire plus de muscles », et je passe peut-être d’autres bêtises !
+
+## Découverte du renforcement musculaire et de principes essentiels
+
+**J’ai commis plusieurs erreurs** que de nombreuses personnes, peut-être vous, ont déjà connu : négliger l’échauffement et le renforcerment du cœur au profit d’autres exercices dans une optique de performance et d’esthétisme, passer trop de temps à s’entraîner jusqu’à perdre ma motivation ou me blesser, négliger certains muscles en me focalisant sur d’autres, prendre de la protéine en poudre pour « construire plus de muscles », et je passe peut-être d’autres bêtises !
 
 Une autre erreur que j’ai commise a été de privilégier la pratique en salle plutôt qu’en nature, dans des parcs par exemple. En effet, nous n’avons pas besoin de machines pour pratiquer efficacement, bien au contraire. Notre poids de corps est notre meilleur outil d’entraînement !
 
@@ -39,6 +42,9 @@ De réussite en échec, de la forme physique jusqu’à la blessure, j’ai appr
 **Toutes les erreurs que j’ai commises me servent aujourd’hui**, dans mes entraînements personnels et pour les personnes que j’accompagne.
 
 Un principe que j’ai tiré de ces expériences est qu’**un entraînement intelligent est plutôt celui qui vise à “entretenir et à améliorer sa santé”** pour **“se sentir bien et se renforcer”**. A l’inverse, « vouloir performer en négligeant sa santé, au risque de se blesser et de ne plus pouvoir pratiquer » est totalement contre productif.
+
+
+## Découverte du badminton, de la boxe et d'autres sports
 
 J’ai également découvert la pratique du badminton, au collège et au lycée, puis en tant que loisir avec des amis. **La différence fondamentale à noter ici est que** je n’avais pas vraiment l’impression de faire d’efforts lorsque je pratiquais cette activité. **C’était avant tout un plaisir de la pratiquer avec d’autres personnes**. J’apprécie la variété des échanges possibles, le sens de l’observation et de la coopération que cette activité amène à développer.
 
