@@ -58,6 +58,6 @@ Nous prévoyons 40 cours de septembre à juin-juillet, avec des créneaux pour d
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2785.5987507667523!2d4.892937125107333!3d45.71908590545824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4c226ad459f2d%3A0x182610178e9fd889!2s38%20Rue%20du%20Clos%20Verger%2C%2069200%20V%C3%A9nissieux!5e0!3m2!1sfr!2sfr!4v1605900733902!5m2!1sfr!2sfr" width="75%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 - Accès : velo’v, métro D, bus, voiture.
-Nos créneaux : les samedis de 8h à 9h30 (hommes), de 9h40 à 11h10 (femmes), de 11h30 à 13h et de 15h30 à 17h (hommes).
+Nos créneaux : les samedis de 8h30 à 10h00 (hommes), de 10h10 à 11h40 (femmes), de 12h00 à 13h30 et de 15h30 à 17h (hommes).
 
 Vous avez des questions ou vous souhaitez faire une séance d’essai ?
